@@ -8,7 +8,7 @@ export default defineConfig4CustomTheme({
 			description: '前端编码规范工程化(通用版)',
 		},
 	},
-	base: '/public_cli_min/',
+	base: '/public-cli-min/',
 	themeConfig: {
 		nav: [
 			{ text: '首页', link: '/index.md' },
